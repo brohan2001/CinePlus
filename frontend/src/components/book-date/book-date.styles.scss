@@ -1,0 +1,25 @@
+.show-list-container{
+    text-align: center;
+
+    h1{
+        font-size: 50px;
+    }
+
+    .show-list{
+        padding-top: 30px;
+
+        span{
+            text-decoration: none;
+            color: yellow;
+            outline: 1px solid yellow;
+            padding: 10px;
+            margin: 25px;
+            font-size: 25px;
+    
+            &:hover{
+                color: black;
+                background-color: yellow;
+            }
+        }
+    }
+}

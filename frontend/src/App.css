@@ -1,0 +1,13 @@
+body {
+  font-family: 'Arial';
+  background-color: black;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
