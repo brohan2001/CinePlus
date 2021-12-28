@@ -19,7 +19,7 @@ A Website implemented using MERN (MongoDB, ExpressJS, ReactJS and NodeJS) stack 
 ## Configuration Steps
 1. Cloning the repository:
 ```
-$ git clone https://github.com/ahmedgulabkhan/MovieGo.git
+$ git clone https://github.com/brohan2001/CinePlus.git
 ```
 2. Run the commands:
 ```
